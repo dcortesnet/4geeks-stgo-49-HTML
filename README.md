@@ -1,7 +1,7 @@
 # 4Geeks Stgo 49 HTML
 
-Repositorio básico con ejemplos para que los estudiantes puedan practicar. Múltiples ejercicios sobre HTML.
+This repository contains examples, basic exercises of HTML. It serves as a complementary resource for self-taught students seeking to improve their skills in this tool.
 
-## Desarrollado por:
+## Developed by:
 
 * dcortes@4geeksacademy.com
